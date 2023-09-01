@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Võ Ngọc Bảo</h1>
-<h3 align="center">A college student at University of Information Technology HCMC</h3>
+<h1 align="center">Hi 👋, I'm Bảo</h1>
+<h3 align="center">A college student at University of Information Technology HCMC - VNU.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamnbz&label=Profile%20views&color=0e75b6&style=flat" alt="adamnbz" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Information System**
 
-- 📫 How to reach me **contact.adamnguyen@gmail.com**
+- 📫 How to reach me: **contact.adamnguyen@gmail.com**
 
-- ⚡ Fun fact **I'm a nerd**
+- ⚡ Fun fact: **I'm a nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
