@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bảo</h1>
-<h3 align="center">A college student at University of Information Technology HCMC - VNU.</h3>
+<h3 align="center">A college student at University of Information Technology - VNUHCM.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamnbz&label=Profile%20views&color=0e75b6&style=flat" alt="adamnbz" /> </p>
 
