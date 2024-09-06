@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamnbz" alt="adamnbz" /></a> </p>
 
-- 🌱 I’m currently learning **Information System**
+- 🌱 I’m currently majoring in **Bachelor of Information System & Bachelor of Computer Science**.
 
-- 📫 How to reach me: **contact.adamnguyen@gmail.com**
+- Naturally, i hide all my CP codes from codeforces, CSES, etc... on here. I would hide all my current projects also, but i'm lazy :sob:.
 
-- ⚡ Fun fact: **I'm a nerd**
+- 📫 Feel free to contact me -> **contact.adamnguyen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nguyễn võ ngọc bảo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn võ ngọc bảo" height="30" width="40" /></a>
+<a href="https://fb.com/adamng.0210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn võ ngọc bảo" height="30" width="40" /></a>
 <a href="https://instagram.com/adamng.0210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adamng.0210" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nbz0210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nbz0210" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/OatTheSigma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nbz0210" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
