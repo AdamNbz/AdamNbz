@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/736x/3d/54/a3/3d54a3afe927891ec41fec08f2c563d8.jpg" width="200px" />
+# <img src="https://i.pinimg.com/736x/3d/54/a3/3d54a3afe927891ec41fec08f2c563d8.jpg" width="1000px" />
 
 **`Developer (AI Engineer/Fullstack Developer/Game Developer)`**
 
