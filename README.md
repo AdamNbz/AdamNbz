@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://oimages.anime-pictures.net/2ab/2ab6afe4a2fa25ced12db07311fb045f.jpg?if=ANIME-PICTURES.NET_-_839526-1200x2393-tokidoki+bosotto+roshia-go+de+dereru+tonari+no+arya-san-alisa+mikhailovna+kujou-seungju+lee-single-long+hair-tall+image.jpg" width="35px" alt="Meow" />
+# <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://oimages.anime-pictures.net/2ab/2ab6afe4a2fa25ced12db07311fb045f.jpg?if=ANIME-PICTURES.NET_-_839526-1200x2393-tokidoki+bosotto+roshia-go+de+dereru+tonari+no+arya-san-alisa+mikhailovna+kujou-seungju+lee-single-long+hair-tall+image.jpg](https://pin.it/4hkk7lYQe)" width="35px" title="Meow" />
 
 **`Developer (AI Engineer/Fullstack Developer/Game Developer)`**
 
