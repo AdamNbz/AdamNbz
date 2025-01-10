@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/736x/71/9a/7f/719a7f5c6208b3782e3958e7e9232107.jpg" title="Meow" />
+# <img src="[https://i.pinimg.com/736x/71/9a/7f/719a7f5c6208b3782e3958e7e9232107.jpg](https://www.pinterest.com/pin/903394006487570111/)" title="Meow" />
 
 **`Developer (AI Engineer/Fullstack Developer/Game Developer)`**
 
