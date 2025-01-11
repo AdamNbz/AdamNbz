@@ -1,8 +1,9 @@
 # <p align="center"><img src="https://i.pinimg.com/736x/3d/54/a3/3d54a3afe927891ec41fec08f2c563d8.jpg" width="500px" /></p>
+<h1 align="center" style="margin-bottom: 0;">Nguyễn Võ Ngọc Bảo</h1>
 
 **`Developer (AI Engineer/Fullstack Developer/Game Developer)`**
 
-I'm a sophomore at UIT - VNU, currently building the best version of myself to be an AI Engineer, Fullstack & Game Dev. All coding projects/homeworks are built from scratch & knowledge learnt from UIT. Feel free to fork and use it as study materials ^o^.
+I'm a sophomore at UIT - VNU, currently building the best version of myself to be an AI Engineer, Fullstack & Game Developer with strong enthusiasm for learning. All coding projects/homeworks are built from scratch & knowledge learnt from UIT. Feel free to fork and use it as study materials ^o^.
 
    <p align="left">
    <!-- Codeforces -->
@@ -44,7 +45,7 @@ I'm a sophomore at UIT - VNU, currently building the best version of myself to b
 
 ---
 
-### 🧰 Current languages & tools
+### 🧰 Current languages, frameworks & tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -53,12 +54,21 @@ I'm a sophomore at UIT - VNU, currently building the best version of myself to b
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br />
 
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamnbz&show_icons=true&theme=gruvbox)
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap:20px">
+  <div style="flex: 1; min-width: 390px; max-width: 500px;">
+    <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AdamNbz&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+    <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=AdamNbz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  </div>
+    <div style="flex: 1; min-width: 325px; max-width:500px">
+    <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AdamNbz&hide=HTML,Jupyter Notebook&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="" />
+  </div>
+</div>
 
 #
