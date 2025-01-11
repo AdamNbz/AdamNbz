@@ -2,7 +2,7 @@
 
 **`Developer (AI Engineer/Fullstack Developer/Game Developer)`**
 
-I'm a sophomore at UIT - VNU, currently building the best version of myself to be an AI Engineer, Fullstack & Game Dev. All coding projects/homeworks are built from scratch and knowledge from the university. Feel free to fork and use it as study materials ^o^.
+I'm a sophomore at UIT - VNU, currently building the best version of myself to be an AI Engineer, Fullstack & Game Dev. All coding projects/homeworks are built from scratch & knowledge learnt from UIT. Feel free to fork and use it as study materials ^o^.
 
    <p align="left">
    <!-- Codeforces -->
@@ -44,7 +44,7 @@ I'm a sophomore at UIT - VNU, currently building the best version of myself to b
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Current languages & tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
