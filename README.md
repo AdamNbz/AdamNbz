@@ -3,7 +3,7 @@
 
 **`Developer (AI Engineer/Fullstack Developer/Game Developer)`**
 
-I'm a sophomore at UIT - VNU, currently building the best version of myself to be an AI Engineer, Fullstack & Game Developer with strong enthusiasm for researching & learning. All coding projects/homeworks are built from scratch & knowledge learnt from UIT. Feel free to fork and use it as study materials ^o^.
+I'm a sophomore at UIT - VNU, currently building the best version of myself to be an AI Engineer, Fullstack & Game Developer with strong enthusiasm for researching & learning. All coding projects/homeworks are built from scratch & knowledge learnt from UIT. Feel free to fork & use it as study materials ^o^.
 
    <p align="left">
    <!-- Codeforces -->
