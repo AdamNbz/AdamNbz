@@ -1,9 +1,9 @@
 # <p align="center"><img src="https://i.pinimg.com/736x/3d/54/a3/3d54a3afe927891ec41fec08f2c563d8.jpg" width="500px" /></p>
 <h1 align="center" style="margin-bottom: 0;">Nguyễn Võ Ngọc Bảo</h1>
 
-**`Developer (AI Engineer/Fullstack Developer/Game Developer)`**
+**`Developer (AI Engineer/Back-end Developer/Game Developer)`**
 
-I'm a sophomore at UIT - VNU, currently building the best version of myself to be an AI Engineer, Fullstack & Game Developer with strong enthusiasm for researching & learning. All coding projects/homeworks are built from scratch & knowledge learnt from UIT. Feel free to fork & use it as study materials ^o^.
+I'm a sophomore at UIT - VNU, currently building the best version of myself to be an AI Engineer, Back-end & Game Developer with strong enthusiasm in researching & learning. All coding projects/homeworks are built from scratch & knowledge learnt from UIT. Feel free to fork & use it as study materials ^o^.
 
    <p align="left">
    <!-- Codeforces -->
