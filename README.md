@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://media1.tenor.com/m/wiXlo7cmMW8AAAAC/kaoruko-kaoruko-waguri.gif" width="500px" /></p>
+# <p align="center"><img src="https://media1.tenor.com/m/wiXlo7cmMW8AAAAC/kaoruko-kaoruko-waguri.gif" width="800px" /></p>
 <h1 align="center" style="margin-bottom: 0;">Nguyễn Võ Ngọc Bảo</h1>
 
 **`Developer (AI Engineer/Back-end Developer/Game Developer)`**
