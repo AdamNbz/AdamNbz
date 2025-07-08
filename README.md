@@ -3,7 +3,7 @@
 
 **`Developer (AI Engineer/Back-end Developer/Game Developer)`**
 
-I'm a sophomore at UIT - VNU, currently building the best version of myself to be an AI Engineer, Back-end & Game Developer with strong enthusiasm in researching & learning. All coding projects/homeworks are built from scratch & knowledge learnt from UIT. Feel free to fork & use it as study materials ^o^.
+I'm a junior at UIT - VNU, currently building the best version of myself to be an AI Engineer, Back-end Developer & Game Developer with strong enthusiasm in researching & learning. All coding projects/homeworks are built from scratch & knowledge learnt from UIT. Feel free to fork & use it as study materials ^o^.
 
    <p align="left">
    <!-- Codeforces -->
