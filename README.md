@@ -3,7 +3,7 @@
 
 **`Amateur Developer`**
 
-Halo, I'm Bao, but people usually call me nbz. I'm currently a junior at UIT - VNU, doing double degree in Information System & Computer Science. My enthusiasm is put in gamedev, machine learning (specialized in NLP) & software engineering. Meanwhile, i do cp (competitive programming) while i'm in my free time.
+Halo, I'm Bao, but people usually call me nbz. I'm currently a junior at UIT - VNU, doing double degree in Information System & Computer Science. My enthusiasm is put in gamedev, machine learning (specialized in NLP) & software engineering. Meanwhile, i do cp (competitive programming) in my free time as it's one of the my favorite sports to play.
 
 As our former president of Vietnam, Ho Chi Minh, once said: "Học, học nữa, học mãi." His sentence inspired me to pursue my life in studying & coding.
 
