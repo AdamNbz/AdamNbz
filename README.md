@@ -1,9 +1,11 @@
 # <p align="center"><img src="https://media1.tenor.com/m/wiXlo7cmMW8AAAAC/kaoruko-kaoruko-waguri.gif" width="800px" /></p>
 <h1 align="center" style="margin-bottom: 0;">Nguyễn Võ Ngọc Bảo</h1>
 
-**`Developer (AI Engineer/Back-end Developer/Game Developer)`**
+**`Amateur Developer`**
 
-I'm a junior at UIT - VNU, currently building the best version of myself to be an AI Engineer, Back-end Developer & Game Developer with strong enthusiasm in researching & learning. All coding projects/homeworks are built from scratch & knowledge learnt from UIT. Feel free to fork & use it as study materials ^o^.
+Halo, I'm Bao, but people usually call me nbz. I'm currently a junior at UIT - VNU, doing double degree in Information System & Computer Science. My enthusiasm is put in gamedev, machine learning (specialized in NLP) & software engineering. Meanwhile, i do cp (competitive programming) while i'm in my free time.
+
+As our former president of Vietnam, Ho Chi Minh, once said: "Học, học nữa, học mãi." His sentence inspired me to pursue my life in studying & coding.
 
    <p align="left">
    <!-- Codeforces -->
