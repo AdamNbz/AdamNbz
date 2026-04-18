@@ -63,17 +63,3 @@ As our former president of Vietnam, Ho Chi Minh, once said: "Học, học nữa,
 🧪 Currently exploring: **Natural Language Processing (NLP), Game Design**
 
 #
-
-### 📊 Stats
-
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap:20px">
-  <div style="flex: 1; min-width: 390px; max-width: 500px;">
-    <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AdamNbz&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-    <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=AdamNbz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  </div>
-    <div style="flex: 1; min-width: 325px; max-width:500px">
-    <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AdamNbz&hide=HTML,Jupyter Notebook&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="" />
-  </div>
-</div>
-
-#
