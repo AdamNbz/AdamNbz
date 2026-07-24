@@ -52,12 +52,14 @@ As our former president of Vietnam, Ho Chi Minh, once said: "Học, học nữa,
 <p align="left">
    <img alt="C++" title="C++" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
    <img alt="C#" title="C#" src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+   <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="Unity" title="Unity" src="https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white" />
    <img alt=".NET" title=".NET" src="https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
-   <img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
-   <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-   <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
    <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+   <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
+   <img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 Currently exploring: **Natural Language Processing (NLP), Computer Vision (CV), AI Engineering in Game Development, Game Online Development & UGC Game Development**
