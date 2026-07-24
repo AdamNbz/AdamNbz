@@ -3,7 +3,7 @@
 
 **`Amateur Developer`**
 
-Halo, I'm Bao, but people usually call me nbz. I'm currently a student @UIT - VNU, pursuing double degree in Information System & Computer Science. My enthusiasm is put in game development, machine learning (specialized in NLP) & software engineering. Meanwhile, i do cp (competitive programming) in my free time as it's one of the my favorite sports to play.
+Halo, I'm Bao, but people usually call me nbz. I'm currently a student @UIT - VNUHCM, pursuing double degree in Information System & Computer Science. My enthusiasm is put in game development, machine learning (specialized in NLP) & software engineering. Meanwhile, i do cp (competitive programming) in my free time as it's one of the my favorite sports to play.
 
 As our former president of Vietnam, Ho Chi Minh, once said: "Học, học nữa, học mãi." His sentence inspired me to pursue my life in studying & coding.
 
@@ -47,7 +47,7 @@ As our former president of Vietnam, Ho Chi Minh, once said: "Học, học nữa,
 
 ---
 
-### 🧰 Current languages, frameworks & tools
+### Current languages, frameworks & tools
 
 <p align="left">
    <img alt="C++" title="C++" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -60,6 +60,6 @@ As our former president of Vietnam, Ho Chi Minh, once said: "Học, học nữa,
    <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-🧪 Currently exploring: **Natural Language Processing (NLP), Game Design**
+Currently exploring: **Natural Language Processing (NLP), Computer Vision (CV), AI Engineering in Game Development, Game Online Development & UGC Game Development**
 
 #
